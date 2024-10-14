@@ -1,0 +1,1 @@
+KERNEL=="spidev1.0", OWNER="root", GROUP="spi"
